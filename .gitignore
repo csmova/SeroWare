@@ -1,0 +1,42 @@
+**.txt
+**.cfg
+*.txt
+*.cfg
+**/Config.cfg
+**/log.txt
+log.txt
+config.cfg
+Config.cfg
+Anaconda3/
+.anaconda/
+.cisco/
+.condarc
+.keras/
+.lesshst
+.matplotlib/
+.spyder-py3/
+3D Objects/
+AppData/
+Contacts/
+Creative Cloud Files/
+Documents/
+Downloads/
+Dropbox/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+MicrosoftEdgeBackups/
+Music/
+NTUSER.DAT
+NTUSER.DAT{feb84ca0-3e89-11ec-9d28-f1a47820c56b}.TM.blf
+NTUSER.DAT{feb84ca0-3e89-11ec-9d28-f1a47820c56b}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{feb84ca0-3e89-11ec-9d28-f1a47820c56b}.TMContainer00000000000000000002.regtrans-ms
+OneDrive/
+Saved Games/
+Searches/
+Videos/
+Zotero/
+fscv_software_oldV1/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
